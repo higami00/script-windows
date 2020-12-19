@@ -1,0 +1,5 @@
+je suis dans git
+je fait un changement dans le fichier
+et voici le 3e changement
+je vais aller chercher mon prochain coli
+changement pour le mettre sur mon dossier test sur github
